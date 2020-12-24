@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7TZv4xmO9njRSBVMbMKnb/5ezWuSPmGuFBHGRHzrjq2svN9FtjgFTmCJSSkEMQT9mus5MGpxyARcBKldzs84tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maloY\\Desktop\\practica\\news\\news\\news.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maloY\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

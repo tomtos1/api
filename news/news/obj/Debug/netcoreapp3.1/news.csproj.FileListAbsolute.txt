@@ -1,0 +1,15 @@
+C:\Users\maloY\Desktop\practica\news\news\bin\Debug\netcoreapp3.1\news.exe
+C:\Users\maloY\Desktop\practica\news\news\obj\Debug\netcoreapp3.1\news.csprojAssemblyReference.cache
+C:\Users\maloY\Desktop\practica\news\news\obj\Debug\netcoreapp3.1\news.AssemblyInfoInputs.cache
+C:\Users\maloY\Desktop\practica\news\news\obj\Debug\netcoreapp3.1\news.AssemblyInfo.cs
+C:\Users\maloY\Desktop\practica\news\news\bin\Debug\netcoreapp3.1\news.deps.json
+C:\Users\maloY\Desktop\practica\news\news\bin\Debug\netcoreapp3.1\news.runtimeconfig.json
+C:\Users\maloY\Desktop\practica\news\news\bin\Debug\netcoreapp3.1\news.runtimeconfig.dev.json
+C:\Users\maloY\Desktop\practica\news\news\bin\Debug\netcoreapp3.1\news.dll
+C:\Users\maloY\Desktop\practica\news\news\bin\Debug\netcoreapp3.1\news.pdb
+C:\Users\maloY\Desktop\practica\news\news\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maloY\Desktop\practica\news\news\obj\Debug\netcoreapp3.1\news.csproj.CoreCompileInputs.cache
+C:\Users\maloY\Desktop\practica\news\news\obj\Debug\netcoreapp3.1\news.csproj.CopyComplete
+C:\Users\maloY\Desktop\practica\news\news\obj\Debug\netcoreapp3.1\news.dll
+C:\Users\maloY\Desktop\practica\news\news\obj\Debug\netcoreapp3.1\news.pdb
+C:\Users\maloY\Desktop\practica\news\news\obj\Debug\netcoreapp3.1\news.genruntimeconfig.cache
